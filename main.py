@@ -1,1 +1,1 @@
-print("Hello, World!")
+from random import randint
