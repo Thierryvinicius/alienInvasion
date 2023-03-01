@@ -1,1 +1,1 @@
-from random import randint
+# nada aqui, por enquanto :P
